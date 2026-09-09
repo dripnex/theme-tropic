@@ -1,0 +1,7 @@
+{
+  "id": "theme-tropic",
+  "name": "Tropic",
+  "version": "0.1.0",
+  "description": "Good vibes tropical. Palm green + coral.",
+  "main": "dist/index.js"
+}
